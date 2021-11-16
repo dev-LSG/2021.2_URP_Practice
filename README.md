@@ -3,3 +3,7 @@
 
 # Youtube Unity URP ScreenSpaceDecal Unlit shader-ColinLeung-NiloCat
 [![Unity URP ScreenSpaceDecal Unlit shader - GitHub release](http://img.youtube.com/vi/Bs_HSGRSUtw/0.jpg)](https://youtu.be/Bs_HSGRSUtw?t=0s)
+https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader
+
+# Decal Renderer Feature
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/renderer-feature-decal.html
