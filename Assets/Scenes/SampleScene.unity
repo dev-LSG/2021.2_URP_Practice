@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 2138677392}
-  m_IndirectSpecularColor: {r: 0.86600083, g: 0.9308924, b: 1.1528268, a: 1}
+  m_IndirectSpecularColor: {r: 0.6191388, g: 0.555104, b: 0.5617975, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1036,13 +1036,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RenderTarget: {fileID: 8400000, guid: 293edc4b05b9a0f4ba2cebcd0edabb70, type: 2}
   CubemapSize: 2048
-  ProjectionType: 1
+  ProjectionType: 0
   FishEyeType: 0
   UseUnityInternalCubemapRenderer: 0
-  GammaConvertType: 1
-  RenderInStereo: 0
+  GammaConvertType: 0
+  RenderInStereo: 1
   StereoSeparation: 0.065
-  CorrectCameraPositionInStereoRendering: 0
+  CorrectCameraPositionInStereoRendering: 1
 --- !u!1 &1744769914
 GameObject:
   m_ObjectHideFlags: 0
